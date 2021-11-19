@@ -1,0 +1,35 @@
+@charset "utf-8";
+*{margin:0;padding:0;list-style-type:none;}
+a,img{border:0;}
+label{cursor:pointer;}
+table{empty-cells:show;border-collapse:collapse;border-spacing:0;}
+a,a:visited{color:#5e5e5e; text-decoration:none;}
+a:hover{color:#4183C4;text-decoration:underline;}
+body{font:12px/180% Arial, Helvetica, sans-serif, "新宋体";}
+td{font-size:9pt;}
+.lr10{margin:0 10px;}
+.logo{margin:0 0 0 20px;float:left;display:inline;}
+.user{float:right;margin:40px 20px 0 0;display:inline;}
+.sort{margin:20px 20px 0 20px;}
+.sort dt{font-weight:800;font-size:14px;height:24px;line-height:24px;background:url(../../images/manage/plus.gif) no-repeat 0 8px;padding:0 0 0 20px;cursor:pointer;}
+.sort dt.current{background:url(../../images/manage/minus.gif) no-repeat 0 8px;}
+.sort dd{padding:10px 0 0 20px;}
+.sort dd a{display:block;height:24px;line-height:24px;}
+.title{margin:20px;height:32px;border-bottom:solid 1px #ddd;}
+.title h2{height:31px;float:left;position:relative;border-bottom:solid 2px #3366cc;padding:0 20px 0 10px;font-size:16px;color:#3366cc;margin:0 0 -1px 0;}
+.maincon{margin:0 20px 20px 20px;}
+.formtable td{padding:15px 5px;border-bottom:solid 1px #ddd;}
+.formtable td .stext{height:24px;}
+.formtable td .append{margin:15px 0 0 0;}
+.formtable td .stext input{width:480px;border:solid 1px #C4C4C4;padding:5px;height:22px;line-height:22px;}
+.formtable td .append span{margin-right:30px;}
+.formtable td .btn-img{width:89px;height:35px;line-height:35px;cursor:pointer;background:url(../../images/manage/btn.gif) no-repeat;border:0;font-size:14px;font-weight:800;color:#fff;}
+.tablelist th{background:#eee;}
+.tablelist th,.tablelist td{border:solid 1px #ddd;text-align:center;padding:10px 5px;font-size:12px;line-height:20px;}
+/* pagination */
+.pagination{padding:3px;margin:20px 0 0 0;text-align:center;}
+.pagination a{border:#eee 1px solid;padding:2px 5px;margin:2px;color:#48B9EF;text-decoration:none;}
+.pagination a:hover{border:#999 1px solid;color:#666;}
+.pagination a:active{border:#999 1px solid;color:#666;}
+.pagination .current{border:#FF5A00 1px solid;padding:2px 5px;font-weight:bold;margin:2px;color:#fff;background-color:#FF6C16;}
+.pagination .disabled{border:#eee 1px solid;padding:2px 5px;margin:2px;color:#ddd;}

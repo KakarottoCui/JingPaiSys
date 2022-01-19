@@ -1,8 +1,6 @@
 # JingPaiSys
 基于SSM框架的竞拍系统拍卖网
 
-本代码并非完整版，如需完整版请加QQ：821898835，承接商业项目和毕设代做！
-
 演示视频：https://live.csdn.net/v/178887
 
 WEB层组件
@@ -26,3 +24,5 @@ J2EE web层组件包含JSP页面或者Servlet。根据J2EE的相关规范，还�
 服务器：Tomcat 8
 
 数据库：MySql5.X
+
+详询QQ：821898835，微信：egvh56ufy7hh，承接商业项目和毕设

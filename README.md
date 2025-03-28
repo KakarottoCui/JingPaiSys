@@ -1,7 +1,7 @@
 # JingPaiSys
 基于SSM框架的竞拍系统拍卖网
 
-演示视频：https://live.csdn.net/v/178887
+演示视频：https://www.bilibili.com/video/BV1SQ4y1D7Vq/
 
 WEB层组件
 
